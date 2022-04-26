@@ -1,1 +1,1 @@
-H I G H ring project
+"HIGH" ring project
